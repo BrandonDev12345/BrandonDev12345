@@ -11,7 +11,7 @@ Skills: DOTNET / JS / HTML / CSS / SQL / REACT / TYPESCRIPT / DOTNET CORE / NEXT
 - ⚡ Fun fact: Tryharder on everything 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrandonDev12345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/BrandonDev12345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/brandon-nalin-0b2278269/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BrandonDev12345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/BrandonDev12345)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/brandon-nalin-0b2278269/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrandonDev12345)](https://github.com/anuraghazra/github-readme-stats)
 
