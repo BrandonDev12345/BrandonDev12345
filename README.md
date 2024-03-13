@@ -1,6 +1,5 @@
 ### Hi there 👋, Brandon Nalin
 #### Development
-![Development](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Brandon from France, and I do content on Development. I really enjoy learning languages and frameworks like React, as well as work in DotNet. I also enjoy ui, ux, and design in general.
 
